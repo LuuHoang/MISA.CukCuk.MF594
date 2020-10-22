@@ -1,0 +1,22 @@
+﻿body {
+}
+/*Dialog*/
+.dialog {
+    display: none;
+    position: absolute;
+    width: 768px;
+    height: 369px;
+    color: #fff;
+    border: 3px solid #0973b9;
+    border-radius: 3px;
+    background-color: #ffffff;
+    top: calc(50% - 258px);
+    left: calc(50% - 400px);
+    right: 0;
+    bottom: 0;
+}
+
+    .dialog .dialog-body .row {
+        margin-bottom: 30px;
+    }
+/*End Dialog*/

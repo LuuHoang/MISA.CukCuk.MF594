@@ -1,0 +1,14 @@
+C:\Users\Hoang Luu\source\repos\MISA.CukCuk.MF594\MISA.Bussiness\obj\Release\netcoreapp3.1\MISA.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Luu\source\repos\MISA.CukCuk.MF594\MISA.Bussiness\obj\Release\netcoreapp3.1\MISA.Bussiness.AssemblyInfoInputs.cache
+C:\Users\Hoang Luu\source\repos\MISA.CukCuk.MF594\MISA.Bussiness\obj\Release\netcoreapp3.1\MISA.Bussiness.AssemblyInfo.cs
+C:\Users\Hoang Luu\source\repos\MISA.CukCuk.MF594\MISA.Bussiness\bin\Release\netcoreapp3.1\MISA.Bussiness.deps.json
+C:\Users\Hoang Luu\source\repos\MISA.CukCuk.MF594\MISA.Bussiness\bin\Release\netcoreapp3.1\MISA.Bussiness.dll
+C:\Users\Hoang Luu\source\repos\MISA.CukCuk.MF594\MISA.Bussiness\bin\Release\netcoreapp3.1\MISA.Bussiness.pdb
+C:\Users\Hoang Luu\source\repos\MISA.CukCuk.MF594\MISA.Bussiness\bin\Release\netcoreapp3.1\MISA.Common.dll
+C:\Users\Hoang Luu\source\repos\MISA.CukCuk.MF594\MISA.Bussiness\bin\Release\netcoreapp3.1\MISA.DataAccess.dll
+C:\Users\Hoang Luu\source\repos\MISA.CukCuk.MF594\MISA.Bussiness\bin\Release\netcoreapp3.1\MISA.Common.pdb
+C:\Users\Hoang Luu\source\repos\MISA.CukCuk.MF594\MISA.Bussiness\bin\Release\netcoreapp3.1\MISA.DataAccess.pdb
+C:\Users\Hoang Luu\source\repos\MISA.CukCuk.MF594\MISA.Bussiness\obj\Release\netcoreapp3.1\MISA.Bussiness.csprojAssemblyReference.cache
+C:\Users\Hoang Luu\source\repos\MISA.CukCuk.MF594\MISA.Bussiness\obj\Release\netcoreapp3.1\MISA.Bussiness.csproj.CopyComplete
+C:\Users\Hoang Luu\source\repos\MISA.CukCuk.MF594\MISA.Bussiness\obj\Release\netcoreapp3.1\MISA.Bussiness.dll
+C:\Users\Hoang Luu\source\repos\MISA.CukCuk.MF594\MISA.Bussiness\obj\Release\netcoreapp3.1\MISA.Bussiness.pdb

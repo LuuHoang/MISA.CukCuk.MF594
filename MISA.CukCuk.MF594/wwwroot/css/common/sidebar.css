@@ -1,0 +1,155 @@
+﻿body {
+}
+
+.menu {
+    float: left;
+    width: 200px;
+    background-color: #0973b9 !important;
+    height: 100vh;
+}
+
+    .menu .logo {
+        height: 50px;
+        width: 100%;
+        background-color: #0973b9 !important;
+    }
+
+    .menu .menu-content {
+        width: 100%;
+        height: calc(100%-50px);
+        background-color: #0973b9 !important;
+    }
+
+.logo .icon-bar {
+    float: left;
+    height: 100%;
+    width: 50px;
+    background-image: url('../../content/img/icon-left-header.png');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.logo .logo-text {
+    float: left;
+    height: 100%;
+    width: calc(100% - 50px);
+    background-image: url('../../content/img/logo-text.png');
+    background-repeat: no-repeat;
+    background-position: 2px 13px;
+}
+
+/*Menu*/
+.menu-content {
+    width: calc(100% - 3px);
+    padding-left: 3px;
+    height: calc(100vh - 50px);
+}
+
+    .menu-content .menu-item {
+        color: #fff;
+        display: flex;
+        width: 100%;
+        border-top: 1px solid #1b8bd4;
+        border-bottom: 1px solid #08598e;
+        height: 40px;
+    }
+
+        .menu-content .menu-item:hover {
+            background-color: #0099FF;
+            cursor: pointer;
+        }
+
+    .menu-content .menu-item-icon {
+        width: 40px;
+        height: 40px;
+        align-self: center;
+        background-image: url('../../content/img/iconMenu.png');
+        background-repeat: no-repeat;
+        margin-top:2px;
+    }
+
+.icon-board {
+    background-position: 5px 7px;
+}
+
+.icon-report {
+    background-position: 5px -185px;
+    margin-left:3px;
+}
+
+.menu-content .icon-down {
+    float: right;
+    width: 39px;
+    height: 40px;
+    align-self: center;
+    background-image: url('../../content/img/iconMenu.png');
+    background-repeat: no-repeat;
+    background-position: 5px -259px;
+    margin-bottom:5px;
+}
+
+.icon-buy {
+    background-position: 5px -367px;
+}
+
+.icon-money {
+    background-position: 5px -72px;
+}
+
+.icon-expense {
+    background-image: url('../../content/img/icon-cost.png') !important;
+    margin-left: 7px;
+    margin-top: 6px !important;
+    width: 33px !important;
+    height: 30px !important
+}
+
+.icon-promotion {
+    background-position: 5px -110px;
+}
+
+.icon-store {
+    background-position: 5px -35px;
+}
+
+.icon-store-money {
+    background-image: url('../../content/img/icon-deposit.png') !important;
+    margin-left: 9px;
+    margin-top: 8px !important;
+    width: 30px !important;
+    height: 30px !important
+}
+
+.icon-menu {
+    background-image: url('../../content/img/vector-smart-object.png') !important;
+    margin-left: 9px;
+    margin-top: 6px !important;
+    width: 30px !important;
+    height: 30px !important
+}
+
+.icon-help {
+    background-image: url('../../content/img/iconhelp.png') !important;
+    margin-top: 18px !important;
+    margin-left: 9px;
+}
+
+.icon-category {
+    background-position: 5px -147px;
+}
+
+.icon-subcriber {
+    background-image: url('../../content/img/icon-subscriber.png') !important;
+    margin-top:18px !important;
+    margin-left:9px;
+}
+
+.icon-setting {
+    background-position: 5px -225px;
+}
+
+.menu-content .menu-item-text {
+    line-height: 40px;
+    align-items: center;
+    width: 130px;
+}

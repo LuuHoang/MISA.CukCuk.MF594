@@ -1,0 +1,4 @@
+C:\Users\Hoang Luu\source\repos\MISA.CukCuk.MF594\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.csprojAssemblyReference.cache
+C:\Users\Hoang Luu\source\repos\MISA.CukCuk.MF594\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Luu\source\repos\MISA.CukCuk.MF594\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.AssemblyInfoInputs.cache
+C:\Users\Hoang Luu\source\repos\MISA.CukCuk.MF594\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.AssemblyInfo.cs

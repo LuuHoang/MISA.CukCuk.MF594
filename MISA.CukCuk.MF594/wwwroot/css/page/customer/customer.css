@@ -1,0 +1,25 @@
+﻿body {
+}
+
+.left-row-right input {
+    height: 25px;
+    width: 88%;
+    border: 1px solid #ccc;
+}
+
+.required-error, .required-error:focus {
+    border: 1px solid #ff0000 !important;
+}
+
+.full-site input {
+    width: 109%;
+    height: 80%;
+    border: 1px solid #ccc;
+}
+
+.footer-left input {
+    width: 30px;
+}
+.left-row .left-row-right  input.datepicker {
+    text-align: center;
+}

@@ -1,0 +1,12 @@
+C:\Users\Hoang Luu\source\repos\MISA.CukCuk.MF594\MISA.DataAccess\obj\Release\netcoreapp3.1\MISA.DataAccess.csprojAssemblyReference.cache
+C:\Users\Hoang Luu\source\repos\MISA.CukCuk.MF594\MISA.DataAccess\obj\Release\netcoreapp3.1\MISA.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Hoang Luu\source\repos\MISA.CukCuk.MF594\MISA.DataAccess\obj\Release\netcoreapp3.1\MISA.DataAccess.AssemblyInfo.cs
+C:\Users\Hoang Luu\source\repos\MISA.CukCuk.MF594\MISA.DataAccess\bin\Release\netcoreapp3.1\MISA.DataAccess.deps.json
+C:\Users\Hoang Luu\source\repos\MISA.CukCuk.MF594\MISA.DataAccess\bin\Release\netcoreapp3.1\MISA.DataAccess.dll
+C:\Users\Hoang Luu\source\repos\MISA.CukCuk.MF594\MISA.DataAccess\bin\Release\netcoreapp3.1\MISA.DataAccess.pdb
+C:\Users\Hoang Luu\source\repos\MISA.CukCuk.MF594\MISA.DataAccess\bin\Release\netcoreapp3.1\MISA.Common.dll
+C:\Users\Hoang Luu\source\repos\MISA.CukCuk.MF594\MISA.DataAccess\bin\Release\netcoreapp3.1\MISA.Common.pdb
+C:\Users\Hoang Luu\source\repos\MISA.CukCuk.MF594\MISA.DataAccess\obj\Release\netcoreapp3.1\MISA.DataAccess.csproj.CopyComplete
+C:\Users\Hoang Luu\source\repos\MISA.CukCuk.MF594\MISA.DataAccess\obj\Release\netcoreapp3.1\MISA.DataAccess.dll
+C:\Users\Hoang Luu\source\repos\MISA.CukCuk.MF594\MISA.DataAccess\obj\Release\netcoreapp3.1\MISA.DataAccess.pdb
+C:\Users\Hoang Luu\source\repos\MISA.CukCuk.MF594\MISA.DataAccess\obj\Release\netcoreapp3.1\MISA.DataAccess.csproj.CoreCompileInputs.cache

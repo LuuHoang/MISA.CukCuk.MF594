@@ -1,0 +1,13 @@
+C:\Users\Hoang Luu\source\repos\MISA.CukCuk.MF594\MISA.Common\bin\Release\netcoreapp3.1\MISA.Common.deps.json
+C:\Users\Hoang Luu\source\repos\MISA.CukCuk.MF594\MISA.Common\bin\Release\netcoreapp3.1\MISA.Common.dll
+C:\Users\Hoang Luu\source\repos\MISA.CukCuk.MF594\MISA.Common\bin\Release\netcoreapp3.1\MISA.Common.pdb
+C:\Users\Hoang Luu\source\repos\MISA.CukCuk.MF594\MISA.Common\obj\Release\netcoreapp3.1\MISA.Common.Properties.ResourceEN.resources
+C:\Users\Hoang Luu\source\repos\MISA.CukCuk.MF594\MISA.Common\obj\Release\netcoreapp3.1\MISA.Common.Properties.Resources.resources
+C:\Users\Hoang Luu\source\repos\MISA.CukCuk.MF594\MISA.Common\obj\Release\netcoreapp3.1\MISA.Common.Properties.ResourcesVN.resources
+C:\Users\Hoang Luu\source\repos\MISA.CukCuk.MF594\MISA.Common\obj\Release\netcoreapp3.1\MISA.Common.csproj.GenerateResource.cache
+C:\Users\Hoang Luu\source\repos\MISA.CukCuk.MF594\MISA.Common\obj\Release\netcoreapp3.1\MISA.Common.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Luu\source\repos\MISA.CukCuk.MF594\MISA.Common\obj\Release\netcoreapp3.1\MISA.Common.AssemblyInfoInputs.cache
+C:\Users\Hoang Luu\source\repos\MISA.CukCuk.MF594\MISA.Common\obj\Release\netcoreapp3.1\MISA.Common.AssemblyInfo.cs
+C:\Users\Hoang Luu\source\repos\MISA.CukCuk.MF594\MISA.Common\obj\Release\netcoreapp3.1\MISA.Common.dll
+C:\Users\Hoang Luu\source\repos\MISA.CukCuk.MF594\MISA.Common\obj\Release\netcoreapp3.1\MISA.Common.pdb
+C:\Users\Hoang Luu\source\repos\MISA.CukCuk.MF594\MISA.Common\obj\Release\netcoreapp3.1\MISA.Common.csprojAssemblyReference.cache

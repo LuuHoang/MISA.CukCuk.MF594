@@ -1,0 +1,263 @@
+﻿body {
+}
+/*Dialog*/
+.dialog {
+    display: none;
+    position: absolute;
+    width: 824px;
+    height: 495px;
+    color: #fff;
+    border: 3px solid #0973b9;
+    border-radius: 3px;
+    background-color: #ffffff;
+    top: calc(50% - 258px);
+    left: calc(50% - 400px);
+    right: 0;
+    bottom: 0;
+}
+
+.common-info {
+    background-color: #fff;
+    width: 100%;
+    height: 65%;
+}
+
+    .common-info .page-title {
+        width: 100%;
+        height: 30px;
+    }
+
+    .common-info .form-input {
+        width: 100%;
+        height: calc(100% - 62px);
+        display: flex;
+    }
+    /*Identity*/
+    .common-info .identity-by {
+        width: 100%;
+        height: 30px;
+        display: flex;
+    }
+
+        .common-info .identity-by .name {
+            width: calc(17% + 7px);
+            height: 100%;
+        }
+
+        .common-info .identity-by .input {
+            width: calc(82% - 1px);
+            height: 100%;
+        }
+
+        .common-info .identity-by input {
+            width: 98%;
+            height: 22px;
+        }
+    /*End Indetity*/
+    .common-info .form-input .input-name {
+        width: 18%;
+        height: 100%;
+    }
+
+.input-name .name {
+    width: 100%;
+    height: 16%;
+    display:flex;
+}
+    .input-name .name p {
+        color: #f00;
+        margin-top: 0px;
+        margin-left: 10px;
+    }
+.common-info .form-input .input-group-tag {
+    width: calc(57% - 2px);
+    height: 100%;
+}
+
+.input-group-tag .input {
+    width: 100%;
+    height: 16%;
+    display: flex;
+}
+
+.input input {
+    width: 96%;
+    height: 22px;
+    border: 1px solid #ccc;
+}
+
+.input-group-tag .input .left {
+    width: 40%;
+    height: 100%;
+}
+
+    .input-group-tag .input .left input {
+        width: 93%;
+    }
+
+.input-group-tag .input .right {
+    width: 60%;
+    height: 100%;
+    display: flex;
+}
+
+.input .right p {
+    margin-top: 3px;
+    margin-right: 9px;
+}
+
+.input .right input {
+    width: 73%;
+    height: 64%;
+}
+
+    .input .right input.datepicker {
+        width: 71%;
+        height: 64%;
+        text-align: center;
+    }
+/*Khu vực ảnh*/
+.common-info .form-input .input-picture {
+    width: 25%;
+    height: 100%;
+    margin-right: 7px;
+}
+
+.input-picture .img {
+    width: 100%;
+    height: 77%;
+    background-image: url('../../../content/img/employee.png');
+    display: flex;
+    background-position: center 130px;
+}
+    .input-picture .img div {
+        height: 16%;
+        width: 45%;
+        margin-top: 120px;
+        margin-left: 9px;
+        text-align: center;
+        border: 1px solid rgb(118, 118, 118);
+        border-radius: 3px;
+    }
+        .input-picture .img div label {
+            padding-top:3px;
+        }
+    .input-picture .img button {
+        width: 88px;
+        height: 27px;
+        margin-left: 4px;
+        display: flex;
+        margin-top: 120px;
+        padding-top: 3px;
+        background-color: transparent;
+        border: 1px solid rgb(118, 118, 118);
+        border-radius: 3px;
+    }
+    .input-picture .img button i {
+        height:17px;
+        width: 30px;
+    }
+    .input-picture .img button .icon-cancel {
+        background-image: url(../../../content/img/iconsprite.png);
+        background-position: 5px -1951px;
+        background-repeat: no-repeat;
+    }
+
+.input-picture .note {
+    width: 100%;
+    height: 22%;
+    text-align: center;
+}
+/*End Khu vực ảnh*/
+/*End Common-info*/
+
+/*Work-info*/
+.work-info {
+    width: 100%;
+    height: 35%;
+}
+
+    .work-info .page-title {
+        width: 100%;
+        height: 30px;
+    }
+
+    .work-info .form-input {
+        width: 100%;
+        height: calc(100% - 31px);
+        display: flex;
+    }
+        .work-info .form-input .input-name {
+            width: 18%;
+            height: 100%;
+        }
+
+.work-info .form-input .input-name .name {
+    width: 100%;
+    height: 24%;
+    margin-bottom: 3px;
+}
+
+        .work-info .form-input .input-group-tag {
+            width: calc(82% - 2px);
+            height: 100%;
+        }
+
+            .work-info .form-input .input-group-tag .input {
+                width: 100%;
+                height: 24%;
+                margin-bottom: 3px;
+                display: flex;
+            }
+
+                .work-info .form-input .input-group-tag .input input {
+                    width: 98%;
+                    height: 21px;
+                }
+
+                .work-info .form-input .input-group-tag .input select {
+                    width: calc(99% + 2px);
+                    height: 27px;
+                    border: 1px solid #ccc;
+                }
+
+                .work-info .form-input .input-group-tag .input .left {
+                    width: 40%;
+                    height: 100%;
+                }
+
+                    .work-info .form-input .input-group-tag .input .left input {
+                        width: 93%;
+                        height: 77%;
+                    }
+
+                .work-info .form-input .input-group-tag .input .right {
+                    width: 60%;
+                    height: 100%;
+                    display: flex;
+                }
+
+                    .work-info .form-input .input-group-tag.input .right p {
+                        margin-top: 3px;
+                        margin-right: 9px;
+                    }
+
+                    .work-info .form-input .input-group-tag .input .right input {
+                        width: calc(80% - 2px);
+                        height: 77%;
+                    }
+
+                    .work-info .form-input .input-group-tag .input .right select {
+                        width: calc(81% + 1px);
+                        height: 92%;
+                    }
+
+.input-group-tag .input .left input.datepicker {
+    text-align: center;
+}
+/*End Work-Info*/
+/*End Dialog*/
+.tableFixHead tbody tr {
+    max-height: 30px;
+    overflow: auto;
+}
